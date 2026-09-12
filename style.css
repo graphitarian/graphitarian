@@ -1249,7 +1249,7 @@ section[id] {
   display: block;
   width: 100%;
   height: auto;
-  object-fit: cover;
+  object-fit: contain;
 
   transition:
     transform 0.6s cubic-bezier(.2,.7,.2,1),
