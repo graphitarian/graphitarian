@@ -25,7 +25,7 @@
 :root {
     --ink: #111a36;
     --muted: #687086;
-    --pink: #9e35ffff;
+    --Orange: #ff4500ff;
     --pink2: #6500bbfe;
     --line: #eceef4;
     --soft: #fff5f8;
@@ -215,7 +215,8 @@ a {
     gap: 12px;
     padding: 14px 20px;
     border-radius: 8px;
-    background: linear-gradient(135deg, #6400bbfe, #9e35ffff);
+    /* background: linear-gradient(135deg, #6400bbfe, #9e35ffff); */
+    background: #0d1e6aff;
     color: #fff;
     font-size: 13px;
     font-weight: 700;
