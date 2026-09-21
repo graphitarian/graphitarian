@@ -977,13 +977,13 @@ section[id] {
     scroll-margin-top: 105px
 }
 
-.brand-logo {
+/* .brand-logo {
     pointer-events: none;
     width: 82px;
     height: 82px;
     display: block;
     object-fit: contain
-}
+} */
 
 .portfolio-page {
     background: linear-gradient(180deg, #fff 0%, #fff8fa 45%, #fff 100%)
